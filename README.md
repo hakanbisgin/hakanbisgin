@@ -22,8 +22,9 @@
 
 <!-- Animasyonlu Başlık -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1000&pause=3000&color=2E8B57&center=true&vCenter=true&multiline=true&width=800&height=100&lines=10+ yıl yazılım geliştirme deneyimi ; 3+ yıl network mühendisliği ; 2+ yıl broadcast teknolojileri uzmanlığı" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=10%2B+Y%C4%B1l+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirme;3%2B+Y%C4%B1l+Network+M%C3%BChendisli%C4%9Fi;2%2B+Y%C4%B1l+Broadcast+Teknolojileri" alt="Typing Animation" />
 </h1>
+
 
 > Broadcast sistemleri, yapay zeka ve full-stack geliştirme alanlarında uzmanlaşmış **Senior System Engineer**. 
 > 
