@@ -201,10 +201,10 @@ VMware/Proxmox               ████████████████░
 <div align="center">
   
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=hakanbisgin&theme=radical&hide_border=true&background=0d1117&border=2E8B57&stroke=4A90E2&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A90E2&sideLabels=2E8B57&dates=888888&excludeDaysLabel=666666)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=hakanbisgin&theme=radical&hide_border=true&background=0d1117&border=2E8B57&stroke=4A90E2&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4A90E2&sideLabels=2E8B57&dates=888888&excludeDaysLabel=666666" alt="GitHub Streak" />
 
 <!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hakanbisgin&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hakanbisgin&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
@@ -348,7 +348,7 @@ Modern, responsive kişisel portfolio web sitesi. Çoklu dil desteği (TR/EN) ve
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Readme Quotes" />
 
 </div>
 
